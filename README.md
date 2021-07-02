@@ -15,7 +15,7 @@
 
 ✉️Social Media:
 
-<a href="https://https://www.linkedin.com/in/rodrigo-pereira-4ab216176/">
+<a href="https://www.linkedin.com/in/rodrigo-pereira-4ab216176/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" style="max-width:100%"></img>
 </a>
 <a href="https://www.behance.net/rodrigopereira46">
