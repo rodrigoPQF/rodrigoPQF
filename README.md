@@ -22,6 +22,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" width="30" height="30" style="max-width:100%"></img>
 </a>
   
+ 
+<div align="center">
   
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigoPQF&show_icons=true&theme=outrun&locale=pt-BR)
@@ -29,7 +31,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoPQF&layout=compact&locale=pt-BR&theme=outrun)](https://github.com/rodrigoPQF/github-readme-stats)
 
-
+</div>
 
 
 ![Snake animation](https://github.com/rodrigoPQF/rodrigoPQF/blob/output/github-contribution-grid-snake.svg)
