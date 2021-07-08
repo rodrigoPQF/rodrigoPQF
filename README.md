@@ -26,10 +26,10 @@
 <div align="center">
   
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigoPQF&show_icons=true&theme=outrun&locale=pt-BR)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigoPQF&show_icons=true&theme=outrun&locale=en)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoPQF&layout=compact&locale=pt-BR&theme=outrun)](https://github.com/rodrigoPQF/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoPQF&layout=compact&locale=en&theme=outrun)](https://github.com/rodrigoPQF/github-readme-stats)
 
 </div>
 
