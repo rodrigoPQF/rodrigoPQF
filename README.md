@@ -2,6 +2,8 @@
 #### Hi, welcome to my profile
 #### 🔎 Student living in 🟢Brazil🟡
 
+#### Learning about tecnology
+
 ### ⚙️Stack:
 
 <a href="https://angular.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="30" style="max-width:100%"></img></a>
