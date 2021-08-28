@@ -4,12 +4,7 @@
 
 #### Learning about tecnology
 
-### ⚙️Stack:
-
-<a href="https://angular.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="30" style="max-width:100%"></img></a>
-<a href="https://nodejs.org/en/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="30" style="max-width:100%"></img></a>
-<a href="https://www.javascript.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="30" style="max-width:100%"></img></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="30" style="max-width:100%"></img></a>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 
 ### 📝Studying:
 
@@ -20,11 +15,9 @@
 
 ✉️Social Media:
 
-<a href="https://www.linkedin.com/in/rodrigo-pereira-4ab216176/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" style="max-width:100%"></img>
-</a>
+<a href="https://www.linkedin.com/in/rodrigo-pereira-4ab216176/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="30" height="30" style="max-width:100%"></img></a>
 <a href="https://www.behance.net/rodrigopereira46" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" width="30" height="30" style="max-width:100%"></img>
+<img src="https://aleen42.github.io/badges/src/behance.svg" width="30" height="30" style="max-width:100%"></img>
 </a>
 
 
