@@ -1,6 +1,11 @@
 
+<p align="center">
+  <img width="900" height="300" src="https://user-images.githubusercontent.com/62712725/151048685-0f5a689d-489d-454d-a150-3c86b04eb119.gif">
+</p>
 <div align="center" style="display: inline_block">Stack : <br><br>
-<img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+
+
+ <img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -20,13 +25,16 @@
 </div>
 <br>
 <br>
- <div>
+ <div align="center">
   <a href="https://github.com/rodrigoPQF">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigoPQF&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoPQF&layout=compact&langs_count=7&theme=great-gatsby"/>
 </div>
+<p align="center">
+  <img width="900" height="300" src="https://github.com/rodrigoPQF/rodrigoPQF/blob/output/github-contribution-grid-snake.svg">
+</p>
 
 
-![Snake animation](https://github.com/rodrigoPQF/rodrigoPQF/blob/output/github-contribution-grid-snake.svg)
- 
+
+
  
