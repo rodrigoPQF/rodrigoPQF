@@ -29,6 +29,9 @@
   <a href="https://github.com/rodrigoPQF">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigoPQF&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoPQF&layout=compact&langs_count=7&theme=great-gatsby"/>
+    <p align="center">
+  <img width="900" height="300" src="https://github.com/rodrigoPQF/rodrigoPQF/blob/output/github-contribution-grid-snake.svg">
+</p>
 </div>
 
 
