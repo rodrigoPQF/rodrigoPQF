@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="900" height="300" src="https://user-images.githubusercontent.com/62712725/151048685-0f5a689d-489d-454d-a150-3c86b04eb119.gif">
+  <img width="800" height="300" src="https://user-images.githubusercontent.com/62712725/151048685-0f5a689d-489d-454d-a150-3c86b04eb119.gif">
 </p>
 <div align="center" style="display: inline_block">Stack : <br><br>
 
