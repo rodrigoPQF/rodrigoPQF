@@ -1,10 +1,10 @@
-<div align="center" style="display: inline_block; width: 100%">
+<div align="center">
 
 ![wwalkman-06072019-lede-gif](https://user-images.githubusercontent.com/62712725/159959928-5111d41d-6610-4471-8d63-7a4e85ca6b2a.gif)
 
 </div>
 <div align="center" style="display: inline_block">
-    <h3> Hi! Welcome to my profile </h3>
+    <h3> Hi! Welcome </h3>
   Stack : <br><br>
  <img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   </div>
   <div>
-      <img width="300" height="400" src="meuoctocat-removebg-preview.png">
+      <img width="190" height="250" src="meuoctocat-removebg-preview.png">
   </div>
 </div>
 <br>
