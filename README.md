@@ -1,6 +1,5 @@
 <div align="center">
 
-![wwalkman-06072019-lede-gif](https://user-images.githubusercontent.com/62712725/159959928-5111d41d-6610-4471-8d63-7a4e85ca6b2a.gif)
 
 </div>
 <div align="center" style="display: inline_block">
