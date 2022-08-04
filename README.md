@@ -1,9 +1,14 @@
 <div align="center">
 
-
+  <div>
+      <img width="190" height="250" src="meuoctocat-removebg-preview.png">
+  </div>
+<h3>Hi</h3>
 </div>
 <div align="center" style="display: inline_block">
     <br><br>
+    <div align="center" style="display: inline_block">Stacks: <br><br>
+
  <img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -29,17 +34,17 @@
 <div align="center" style="display: inline_block">Social Media: <br><br>
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </div>
 <br>
 <div align="center" style="display: inline_block">System use: <br><br>
   <div>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" />
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   </div>
-  <div>
-      <img width="190" height="250" src="meuoctocat-removebg-preview.png">
-  </div>
+
 </div>
 <br>
 <br>
