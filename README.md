@@ -3,9 +3,9 @@
   <div>
       <img width="190" height="250" src="meuoctocat-removebg-preview.png">
   </div>
-<h3>Hi</h3>
+<h3>Hello, I'm a full stack programmer, currently with a greater focus on backend, creating random projects</h3>
 </div>
-<div align="center" style="display: inline_block">
+<div align="center" style="display: inline_block"
     <br><br>
     <div align="center" style="display: inline_block">Stacks: <br><br>
 
