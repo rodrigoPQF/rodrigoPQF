@@ -5,6 +5,8 @@
   </div>
 <h3>Hello, I'm a full stack programmer, currently with a greater focus on backend, creating random projects</h3>
 </div>
+<div align="center"> Focus language learning : <img align="center" style="border-radius: 40px" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
+</div>
 <div align="center" style="display: inline_block"
     <br><br>
     <div align="center" style="display: inline_block">Stacks: <br><br>
