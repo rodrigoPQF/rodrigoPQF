@@ -1,5 +1,5 @@
 
   <div>
-      <img width="190" height="250" src="meuoctocat-removebg-preview.png">
+      <img width="250" height="250" src="octocat-1719840145474.png">
   </div>
 
