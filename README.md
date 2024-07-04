@@ -1,6 +1,8 @@
 
+&nbsp;<div align="center">
   <img width="250" height="250" src="octocat-1719840145474.png">
 
+</div>
 ```cobol
        IDENTIFICATION DIVISION.
        PROGRAM-ID. Resume.
