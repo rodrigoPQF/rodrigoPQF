@@ -18,6 +18,3 @@
 </div>
 
 
-&nbsp;<div align="center">
-  [![Spotify](https://novatorem-d0zg8dwcy-rodrigopqfs-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/j8h5xl2vau6ggud57d715rc1r)
-</div>
